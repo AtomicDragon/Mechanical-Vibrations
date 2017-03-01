@@ -1,0 +1,13 @@
+k = 404826
+
+k =
+
+      404826
+
+J = 1482.6;
+undampedfreeHW3_2
+%changed in script plot theta to omega
+undampedfreeHW3_2
+%changed in script plot omega to alpha
+undampedfreeHW3_2
+diary off

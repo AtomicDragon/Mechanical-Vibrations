@@ -1,0 +1,180 @@
+%Find values of B and C that match up with A when plotted as Asin(wnt+phi) and Bsin(wnt)+Ccos(wnt)
+B=1
+
+B =
+
+     1
+
+C=1
+
+C =
+
+     1
+
+undampedfreewithBandC
+
+theta2 =
+
+  Columns 1 through 6
+
+    1.0000    1.3746    1.3463    0.9233    0.2297   -0.5313
+
+  Columns 7 through 12
+
+   -1.1365   -1.4086   -1.2678   -0.7553   -0.0215    0.7187
+
+  Columns 13 through 18
+
+    1.2482    1.4118    1.1615    0.5708   -0.1872   -0.8904
+
+  Columns 19 through 24
+
+   -1.3325   -1.3841   -1.0299   -0.3738    0.3918    1.0426
+
+  Columns 25 through 30
+
+    1.3878    1.3262    0.8758    0.1687   -0.5879   -1.1721
+
+  Columns 31 through 36
+
+   -1.4127   -1.2393   -0.7025    0.0402    0.7711    1.2760
+
+  Columns 37 through 42
+
+    1.4068    1.1253    0.5139   -0.2482   -0.9374   -1.3519
+
+  Columns 43 through 48
+
+   -1.3701   -0.9867   -0.3140    0.4507    1.0833    1.3984
+
+  Columns 49 through 54
+
+    1.3035    0.8265    0.1073   -0.6434   -1.2055   -1.4142
+
+  Columns 55 through 60
+
+   -1.2084   -0.6483    0.1018    0.8220    1.3013    1.3992
+
+  Columns 61 through 66
+
+    1.0868    0.4559   -0.3086   -0.9827   -1.3687   -1.3535
+
+  Columns 67 through 72
+
+   -0.9416   -0.2536    0.5087    1.1219    1.4062    1.2783
+
+  Columns 73 through 78
+
+    0.7757    0.0457   -0.6977   -1.2366   -1.4130   -1.1752
+
+  Columns 79 through 84
+
+   -0.5929    0.1632    0.8714    1.3242    1.3889    1.0464
+
+  Columns 85 through 90
+
+    0.3971   -0.3685   -1.0261   -1.3829   -1.3344   -0.8947
+
+  Columns 91 through 96
+
+   -0.1927    0.5658    1.1584    1.4114    1.2508    0.7234
+
+  Columns 97 through 101
+
+   -0.0160   -0.7507   -1.2653   -1.4091   -1.1398
+
+undampedfreewithBandC
+undampedfreewithBandC
+[Warning: Ignoring extra legend entries.] 
+[> In legendHGUsingMATLABClasses>set_children_and_strings (line 650)
+  In legendHGUsingMATLABClasses>make_legend (line 313)
+  In legendHGUsingMATLABClasses (line 241)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2015a\toolbox\matlab\scribe\legend.p', 118)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\matlab\scribe\legend.p',118,0)">line 118</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('undampedfreewithBandC', 'C:\Users\astein991\Documents\MATLAB\undampedfreewithBandC.m', 9)" style="font-weight:bold">undampedfreewithBandC</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\undampedfreewithBandC.m',9,0)">line 9</a>)] 
+undampedfreewithBandC
+B=.5
+
+B =
+
+    0.5000
+
+undampedfreewithBandC
+C=.5
+
+C =
+
+    0.5000
+
+C=.5
+
+C =
+
+    0.5000
+
+undampedfreewithBandC
+B=.3
+
+B =
+
+    0.3000
+
+undampedfreewithBandC
+C=.3
+
+C =
+
+    0.3000
+
+undampedfreewithBandC
+C=.4
+
+C =
+
+    0.4000
+
+undampedfreewithBandC
+C=-.3
+
+C =
+
+   -0.3000
+
+undampedfreewithBandC
+C=-.4
+
+C =
+
+   -0.4000
+
+undampedfreewithBandC
+B=.25
+
+B =
+
+    0.2500
+
+undampedfreewithBandC
+B = 3.2
+
+B =
+
+    3.2000
+
+undampedfreewithBandC
+b=.32
+
+b =
+
+    0.3200
+
+undampedfreewithBandC
+
+B=.32
+
+B =
+
+    0.3200
+
+undampedfreewithBandC
+%Found B and C that correspond with an A value of 0.5128 and a phi of -0.6589
+diary off

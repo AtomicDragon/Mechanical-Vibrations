@@ -1,0 +1,21 @@
+Homework5_4
+[Warning: The value of local variables may have been changed to match
+the globals.  Future versions of MATLAB will require that you declare
+a variable to be global before you use that variable.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework5_4', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m', 5)" style="font-weight:bold">Homework5_4</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m',5,0)">line 5</a>)] 
+[Warning: The value of local variables may have been changed to match
+the globals.  Future versions of MATLAB will require that you declare
+a variable to be global before you use that variable.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework5_4', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m', 5)" style="font-weight:bold">Homework5_4</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m',5,0)">line 5</a>)] 
+[Warning: The value of local variables may have been changed to match
+the globals.  Future versions of MATLAB will require that you declare
+a variable to be global before you use that variable.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework5_4', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m', 5)" style="font-weight:bold">Homework5_4</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m',5,0)">line 5</a>)] 
+[Warning: The value of local variables may have been changed to match
+the globals.  Future versions of MATLAB will require that you declare
+a variable to be global before you use that variable.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework5_4', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m', 5)" style="font-weight:bold">Homework5_4</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework5_4.m',5,0)">line 5</a>)] 
+Homework5_4
+Homework5_4
+Homework5_4
+diary off

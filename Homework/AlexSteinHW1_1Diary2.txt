@@ -1,0 +1,69 @@
+[r1 r2]=quadroots(0,2,2)
+{Error: <a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\quadroots.m',12,1)">File: quadroots.m Line: 12 Column: 1
+</a>Illegal use of reserved keyword "else".
+} 
+[r1 r2]=quadroots(0,2,2)
+{Error: <a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\quadroots.m',12,1)">File: quadroots.m Line: 12 Column: 1
+</a>Illegal use of reserved keyword "else".
+} 
+[r1 r2]=quadroots(0,2,2)
+{Error: <a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\quadroots.m',12,1)">File: quadroots.m Line: 12 Column: 1
+</a>Illegal use of reserved keyword "else".
+} 
+[r1 r2]=quadroots(0,2,2)
+
+root1 =
+
+    -1
+
+
+root2 =
+
+   NaN
+
+
+r1 =
+
+    -1
+
+
+r2 =
+
+   NaN
+
+[r1 r2]=quadroots(1,3,2)
+
+r1 =
+
+    -1
+
+
+r2 =
+
+    -2
+
+[r1 r2]=quadroots(0,0,2)
+Not a valid function
+
+root1 =
+
+   NaN
+
+
+root2 =
+
+   NaN
+
+
+r1 =
+
+   NaN
+
+
+r2 =
+
+   NaN
+
+%Made some changes to the quadroots file to account for a=0 and still solve for the root
+%Seems to work fine but still has repeated roots for some reason
+diary off

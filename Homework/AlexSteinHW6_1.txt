@@ -1,0 +1,10 @@
+Homework6_1
+clear
+Homework6_1
+{Undefined function or variable 'omega0'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework6_1', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework6_1.m', 16)" style="font-weight:bold">Homework6_1</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework6_1.m',16,0)">line 16</a>)
+A1=(omega0+theta0*omegan*zeta)/omegad;
+} 
+Homework6_1
+diary off

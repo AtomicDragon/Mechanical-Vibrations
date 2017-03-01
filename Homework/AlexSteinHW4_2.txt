@@ -1,0 +1,51 @@
+J = 154.826;
+K = 1482.6;
+C = 200;
+omega0 = 10.4826;
+theta0 = 0.4826;
+t=0:0.01:5;
+PlotFree
+%omegan = 3.0945
+%zeta = 0.2087
+%omegad = 3.0263
+%Underdamped
+%solution oscillates for a short while
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+max(theta_t)
+
+ans =
+
+    2.7093
+
+t=0:0.01:10
+PlotFree
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+%Last time = 5.94 seconds
+%Part B
+J = 148.26;
+K = 3482.6;
+C = 300;
+PlotFree;
+%omeagan = 4.8466
+%zeta = 0.2088
+%omegad = 4.7399
+%Underdamped
+%does oscillate for about 5 seconds
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+%last time = 3.78 seconds
+diary off

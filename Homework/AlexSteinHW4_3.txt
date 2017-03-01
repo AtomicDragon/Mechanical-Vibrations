@@ -1,0 +1,13 @@
+J = 200;
+K = 2500;
+C = 500;
+theta0= .1;
+omega0=1.2;
+PlotFree;
+max(theta_t)
+
+ans =
+
+    0.2682
+
+diary off

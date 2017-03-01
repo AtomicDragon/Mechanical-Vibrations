@@ -1,0 +1,24 @@
+%phi = 2.4826, A = 1, omegan = 5.4826
+%System of two equations
+%theta0 = -0.314 omega0 = 2.223
+theta0 = -0.314
+
+theta0 =
+
+   -0.3140
+
+omega0 = 2.223
+
+omega0 =
+
+    2.2230
+
+omegan= 5.4826
+
+omegan =
+
+    5.4826
+
+undampedfree
+%End of problem 2
+diary off

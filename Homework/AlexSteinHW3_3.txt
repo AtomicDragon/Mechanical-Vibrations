@@ -1,0 +1,8 @@
+t = 0:0.1:30;
+Homework3_3
+Homework3_3
+Homework3_3
+Homework3_3
+Homework3_3
+Homework3_3
+diary off

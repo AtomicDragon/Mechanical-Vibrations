@@ -1,0 +1,31 @@
+omegan = 2.4826
+
+omegan =
+
+    2.4826
+
+theta0 = 1
+
+theta0 =
+
+     1
+
+omega0=5.4826
+
+omega0 =
+
+    5.4826
+
+undampedfree
+{Undefined function or variable 'undampedfree'.
+} 
+undampedfree
+{Undefined function or variable 't'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('undampedfree', 'C:\Users\astein991\Documents\MATLAB\undampedfree.m', 6)" style="font-weight:bold">undampedfree</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\undampedfree.m',6,0)">line 6</a>)
+theta = A*sin(omegan*t+phi);
+} 
+t=0:0.1:10;
+undampedfree
+%End of diary 2.1
+diary off

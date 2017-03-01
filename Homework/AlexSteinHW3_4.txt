@@ -1,0 +1,16 @@
+%plot the solution to x''+4x'+x = 0
+%x0 = 10.4826 and v0 = 0.4826
+root1 = -4+sqrt(4^2-4*1*1)/2;
+root1 = (-4+sqrt(4^2-4*1*1))/2;
+root2 = (-4-sqrt(4^2-4*1*1))/2;
+%x = C1*exp(root1*t)+C2*exp(root2*t)
+%v = C1*root1*exp(root1*t)+C2*root2*exp(root2*t)
+%nvm just do plot free
+omega0 = 0.4826;
+theta0 = 10.4826;
+J = 1;
+C = 4;
+K = 1;
+PlotFree;
+%YAYYYYY
+diary off

@@ -1,0 +1,42 @@
+J = 3;
+K = 3;
+C = 1.3;
+theta0 = 0;
+omega0 = 0.24826;
+PlotFree;
+%Not Critical Value, Underdamped. 
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+t= 0:0.01:20;
+PlotFree
+t = 0:0.01:25;
+PlotFree
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+%Last time = 18.4 seconds
+C = 6;
+PlotFree
+%now Critically Damped
+for i = 1:size(t,2)
+if (abs(theta_t(i))>.02*max(theta_t))
+lastTheta = theta_t(i);
+lastTime = i;
+end
+end
+%Last time = 6.84 seconds
+18.4 - 6.84
+
+ans =
+
+   11.5600
+
+%11.56 seconds faster
+diary off

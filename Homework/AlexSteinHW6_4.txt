@@ -1,0 +1,22 @@
+StepResponseDemo
+Homework6_4
+Homework6_4
+clear
+Homework6_4
+Homework6_4
+{Undefined function or variable 'M'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('stepresponsedot', 'C:\Users\astein991\Documents\MATLAB\stepresponsedot.m', 7)" style="font-weight:bold">stepresponsedot</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\stepresponsedot.m',7,0)">line 7</a>)
+    dy(2)=-2*zeta*omegan*x(2)-omegan^2*x(1)+...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('odearguments', 'C:\Program Files\MATLAB\R2015a\toolbox\matlab\funfun\private\odearguments.m', 87)" style="font-weight:bold">odearguments</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\matlab\funfun\private\odearguments.m',87,0)">line 87</a>)
+f0 = feval(ode,t0,y0,args{:});   % ODE15I sets args{1} to yp0.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2015a\toolbox\matlab\funfun\ode45.m', 113)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\matlab\funfun\ode45.m',113,0)">line 113</a>)
+[neq, tspan, ntspan, next, t0, tfinal, tdir, y0, f0, odeArgs, odeFcn, ...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Homework6_4', 'C:\Users\astein991\Documents\MATLAB\Homework\Homework6_4.m', 28)" style="font-weight:bold">Homework6_4</a> (<a href="matlab: opentoline('C:\Users\astein991\Documents\MATLAB\Homework\Homework6_4.m',28,0)">line 28</a>)
+[TL,YL]=ode45(@stepresponsedot,[0 tfinal],[0 0],options);
+} 
+Homework6_4
+diary off
